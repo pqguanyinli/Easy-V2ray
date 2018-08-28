@@ -384,7 +384,7 @@ EOF
 service v2ray start
 clear
 #INstall Success
-echo '教程地址：https://github.com/Moexin/Easy-V2ray/blob/master/README.md'
+echo '教程地址：https://github.com/pqguanyinli/Easy-V2ray/blob/master/README.md'
 echo '配置完成，客户端配置文件在 /root/config.json'
 echo ''
 echo "程序主端口：$mainport"
